@@ -81,8 +81,7 @@ As a fresh developer, my primary motivation for embarking on this E-commerce App
 ### Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vikasipar/ecommerce-app.git
-   ```
+git clone https://github.com/ASMI1-glitch/Ecommerce-Asmi.git   ```
 2. Install dependencies:
    ```bash
    npm install
@@ -103,9 +102,6 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 2. Deploy to your hosting platform (e.g., Vercel).
 
 ### Screenshots
-<img src="https://github.com/vikasipar/ecommerce-app/assets/98696526/fc9858c9-1393-4c11-9203-421f89fa299b" width="200" alt="Homepage Screenshot">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/vikasipar/ecommerce-app/assets/98696526/ab5d5295-3b0e-42c8-bb12-d1ca0999a4e3" width="300" alt="Add to Cart Screenshot">
 
 ### Future Enhancements
 - Enhanced filters and searching
@@ -113,6 +109,6 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 - Payment gateway integration
 
 ### Contact
-**- Vikas Ipar** (vikasipar.scoe.it@gmail.com)
+**- Asmi Prasad** (prasadasmi619@gmail.com)
 
 Feel free to explore the code and adapt the project to meet your needs. If you encounter any problems or have suggestions for improvement, don't hesitate to reach out.
